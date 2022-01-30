@@ -16,4 +16,13 @@ const mesEnd = ['without leaving happier.', 'and hang on.', 'just like everyone 
 'by the seeds that you plant.', 'the beauty of their dreams.', 'see the light.', 
 'and leave a trail.', 'be understood.', 'be defeated.', 'that it is not.', 'once is enough.', 
 'drink the wild air.', "you've imagined.", 'complicated.', 'fairy tale.'];
+// Message generated
+let message = '';
 
+const selectRandArrayItem = arr => arr[Math.floor(Math.random() * arr.length)];
+
+message += selectRandArrayItem(mesStart);
+message += selectRandArrayItem(mesMiddle);
+message += selectRandArrayItem(mesEnd);
+
+console.log(message);
