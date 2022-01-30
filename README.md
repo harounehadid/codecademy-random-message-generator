@@ -42,4 +42,4 @@ To run the program type in the terminal: `node main`
 There is currently no plans to expand upon it.
 
 ## Contact Me
-Created by @harounehadid - feel free to contact me at [LinkedIn](https://www.linkedin.com/in/harounehadid/).
+Created by [@harounehadid](https://github.com/harounehadid) - feel free to contact me at [LinkedIn](https://www.linkedin.com/in/harounehadid/).
